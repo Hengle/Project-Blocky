@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tiles
+  - Objects
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Tiles
+    uniqueID: 2503885807
+    locked: 0
+  - name: Foreground Tiles
+    uniqueID: 2816622697
+    locked: 0
+  - name: Background Objects
+    uniqueID: 763232741
+    locked: 0
+  - name: Pickups
+    uniqueID: 4278465177
+    locked: 0
+  - name: Foreground Objects
+    uniqueID: 1736790383
+    locked: 0
+  - name: Particles
+    uniqueID: 1496217885
+    locked: 0
+  - name: Player
+    uniqueID: 3886635819
+    locked: 0

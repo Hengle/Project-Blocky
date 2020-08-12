@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 401b31339188e754f81e3e1b68026c47
+timeCreated: 1506607827
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SanFamicom
+  fontNames:
+  - SanFamicom
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

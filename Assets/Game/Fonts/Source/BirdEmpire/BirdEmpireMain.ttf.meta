@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 502733b5bfcc5d645ae56e31ba86fecb
+timeCreated: 1507042166
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BirdEmpireMain
+  fontNames:
+  - BirdEmpireMain
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bd56f90e2afd6e942ac5c46c0c9b64d4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

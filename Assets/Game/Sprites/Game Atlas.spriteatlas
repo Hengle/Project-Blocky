@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3cc19544d1bd8ef4b8ff9da7e0e346b9, type: 3}
+    totalSpriteSurfaceArea: 21728
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300002, guid: c2510520bfa00294db7bfbeb84a043a6, type: 3}
+  - {fileID: 21300000, guid: c2510520bfa00294db7bfbeb84a043a6, type: 3}
+  - {fileID: 21300010, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300008, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300006, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300004, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300002, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300000, guid: d0143a20822e6094b8eda1b99a593edc, type: 3}
+  - {fileID: 21300000, guid: 78f45d111a527a64cbd9337b1878b62c, type: 3}
+  - {fileID: 21300000, guid: 210c9a51c92f34745b5c38469186a8c0, type: 3}
+  - {fileID: 21300002, guid: 8929a2d1c53458b4e80e8970f1e11e67, type: 3}
+  - {fileID: 21300000, guid: 8929a2d1c53458b4e80e8970f1e11e67, type: 3}
+  - {fileID: 21300000, guid: 65405a321b37c004daf2ef552d8773a9, type: 3}
+  - {fileID: 21300006, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300008, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300010, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300000, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300002, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300004, guid: 88886962ef8673e44b066925bcce1e45, type: 3}
+  - {fileID: 21300004, guid: 204337a2a9fa1fe4d936ddd69ace4d7d, type: 3}
+  - {fileID: 21300002, guid: 204337a2a9fa1fe4d936ddd69ace4d7d, type: 3}
+  - {fileID: 21300000, guid: 204337a2a9fa1fe4d936ddd69ace4d7d, type: 3}
+  - {fileID: 21300004, guid: 8aa24813f16f4ef43a2439d3074902de, type: 3}
+  - {fileID: 21300006, guid: 8aa24813f16f4ef43a2439d3074902de, type: 3}
+  - {fileID: 21300002, guid: 8aa24813f16f4ef43a2439d3074902de, type: 3}
+  - {fileID: 21300000, guid: 8aa24813f16f4ef43a2439d3074902de, type: 3}
+  - {fileID: 21300008, guid: 8aa24813f16f4ef43a2439d3074902de, type: 3}
+  - {fileID: 21300000, guid: e5596ff47f7b8ce4bbeb9ec7fc531141, type: 3}
+  - {fileID: 21300002, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300004, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300000, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300010, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300006, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300008, guid: d9e9406509f96b24c8373dec79d69749, type: 3}
+  - {fileID: 21300006, guid: 10a0fdd580b07da499ae22300be63c49, type: 3}
+  - {fileID: 21300002, guid: 10a0fdd580b07da499ae22300be63c49, type: 3}
+  - {fileID: 21300004, guid: 10a0fdd580b07da499ae22300be63c49, type: 3}
+  - {fileID: 21300000, guid: 10a0fdd580b07da499ae22300be63c49, type: 3}
+  - {fileID: 21300000, guid: 94c735180cec33f469e45462b8d4e01c, type: 3}
+  - {fileID: 21300002, guid: 94c735180cec33f469e45462b8d4e01c, type: 3}
+  - {fileID: 21300006, guid: c32a9698f2320f74abcd60350f1e3195, type: 3}
+  - {fileID: 21300000, guid: c32a9698f2320f74abcd60350f1e3195, type: 3}
+  - {fileID: 21300004, guid: c32a9698f2320f74abcd60350f1e3195, type: 3}
+  - {fileID: 21300002, guid: c32a9698f2320f74abcd60350f1e3195, type: 3}
+  - {fileID: 21300000, guid: d6e42cb8a3cdf1041adc9ebdeb5a6b4d, type: 3}
+  - {fileID: 21300000, guid: 7c79dbaca38c6f74bb447ee806962219, type: 3}
+  - {fileID: 21300006, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300008, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300010, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300000, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300002, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300004, guid: 1d21142e842f87c459dd68b5cc3c430c, type: 3}
+  - {fileID: 21300006, guid: 382b301fb96c2fe469f31aa5bf671207, type: 3}
+  - {fileID: 21300000, guid: 382b301fb96c2fe469f31aa5bf671207, type: 3}
+  - {fileID: 21300002, guid: 382b301fb96c2fe469f31aa5bf671207, type: 3}
+  - {fileID: 21300004, guid: 382b301fb96c2fe469f31aa5bf671207, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Switch Block Off
+  - Switch Block On
+  - Player Shine 06
+  - Player Shine 05
+  - Player Shine 04
+  - Player Shine 03
+  - Player Shine 02
+  - Player Shine 01
+  - Player Block
+  - UI-Bar
+  - Question Block Off
+  - Question Block On
+  - UI-White
+  - Coin Ruby 04
+  - Coin Ruby 05
+  - Coin Ruby 06
+  - Coin Ruby 01
+  - Coin Ruby 02
+  - Coin Ruby 03
+  - Spawn Point P2
+  - Spawn Point P1
+  - Spawn Point SP
+  - Interaction Platform - Puzzle Target
+  - Interaction Platform - Puzzle Reset
+  - Interaction Platform Inner
+  - Interaction Platform Border
+  - Interaction Platform - Teleporter
+  - Switch Block Glow
+  - Coin Gold 02
+  - Coin Gold 03
+  - Coin Gold 01
+  - Coin Gold 06
+  - Coin Gold 04
+  - Coin Gold 05
+  - Enemy Block 04
+  - Enemy Block 02
+  - Enemy Block 03
+  - Enemy Block 01
+  - Exit Block-01
+  - Exit Block-02
+  - Movable Block Enabled 04
+  - Movable Block Enabled 01
+  - Movable Block Enabled 03
+  - Movable Block Enabled 02
+  - Movable Block Dry
+  - Movable Block Ice
+  - Coin Emerald 04
+  - Coin Emerald 05
+  - Coin Emerald 06
+  - Coin Emerald 01
+  - Coin Emerald 02
+  - Coin Emerald 03
+  - Enemy Sphere 04
+  - Enemy Sphere 01
+  - Enemy Sphere 02
+  - Enemy Sphere 03
+  m_Tag: Game Atlas
+  m_IsVariant: 0

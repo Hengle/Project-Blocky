@@ -1,0 +1,51 @@
+#    ()       - Excludibur -
+#    )(       Reaper of Assets
+# o======o    Slayer of Leakasaurus
+#    ||       
+#    ||       This file supports regex
+#    ||       to exclude files from builds
+#    ||       
+#    ||       Lines Prefixed with # denote comments
+#    ||       /'s are used for file path separators
+#    ||       
+#    ||       The following characters must be escaped with a \:
+#    ||       ^$()<>[{\|.*+?
+#    \/       
+
+
+# ===============
+# Unity generated
+# ===============
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Ll]ogs/
+sysinfo.txt
+output_log.txt
+
+# =====================================
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pidb.*
+*.booproj
+*.svd
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+.vs/
